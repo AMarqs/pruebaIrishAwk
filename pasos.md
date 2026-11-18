@@ -2,7 +2,7 @@
  1. Mirar qué es Microsoft Graph
  2. Preguntarle a Gemini qué me pide la prueba porque no la entiendo
  3. He hecho el quick start que te recomienda la página de Graph y con eso he sacado mi client ID aunque aún no sé para qué me sirve
- 4. Me estoy mirando el tutorial "Build JavaScript apps with Microsoft Graph and app-only authentication"
+ 4. Me estoy mirando el tutorial "Build JavaScript apps with Microsoft Graph and app-only authentication" (tiene IA integrada para preguntar dudas)
  
 Conclusión:
 Solo he conseguido hace una aplicación que supuestamente lista usuarios, pero tiene errores al conectar los datos :(
